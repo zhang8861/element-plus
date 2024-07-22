@@ -4,7 +4,7 @@
       <el-statistic title="Daily active users" :value="268500" />
     </el-col>
     <el-col :span="6">
-      <el-statistic :value="138">
+      <el-statistic :value="1338">
         <template #title>
           <div style="display: inline-flex; align-items: center">
             Ratio of men to women
